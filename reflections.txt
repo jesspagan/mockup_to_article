@@ -1,0 +1,16 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Most of the things that I saw so far I already knew, but the lessons gave me more deeply understanding about the structure.
+I never saw the DOM as a tree that the browser created as reading the html file. So, with my previous experience, everything 
+that I did so far was pretty easy. One thing that I noticed is that they were tags that I learned so time ago that are 
+discontinued to use now (e.g. <strike>), so I reaffirmed the importance of reading the documentation to keep up-to-date 
+with the updates in technology and maintaining a modern development. Also, is perfect to understand how to implement new things 
+about the language.
